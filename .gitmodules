@@ -1,3 +1,6 @@
 [submodule "fase-2-pgweb"]
 	path = fase-2-pgweb
 	url = https://github.com/Blinded4545/fase-2-pgweb
+[submodule "Fase-2-pgweb-backend"]
+	path = Fase-2-pgweb-backend
+	url = https://github.com/Blinded4545/Fase-2-pgweb-backend
